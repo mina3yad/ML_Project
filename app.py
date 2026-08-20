@@ -2,7 +2,7 @@ import gradio as gr
 import joblib
 import pandas as pd
 import numpy as np
-
+import streamlit as st
 # =========================
 # Load Model
 # =========================
